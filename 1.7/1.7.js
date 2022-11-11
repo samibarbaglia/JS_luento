@@ -1,5 +1,4 @@
-let dice_amount = parseInt(prompt
-('Input number of dices.'))
+let dice_amount = parseInt(prompt('Input number of dices.'))
 let sum = 0
 for (let v = 0; v !== dice_amount; v++)
 {
