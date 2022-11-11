@@ -1,5 +1,5 @@
 'use strict';
-kohde = document.querySelector('#kohde')
+let kohde = document.querySelector('#kohde')
 
 let num1 = parseInt(prompt('Type 1. number: '));
 let num2 = parseInt(prompt('Type 2. number: '));
